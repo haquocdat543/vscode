@@ -1,3 +1,42 @@
+### Root
+1.10-main.sock
+Backups
+blob_storage
+Cache
+CachedConfigurations
+CachedData
+CachedExtensionVSIXs
+CachedProfilesData
+code.lock
+Code Cache
+Cookies
+Cookies-journal
+Crashpad
+DawnCache
+DawnGraphiteCache
+DawnWebGPUCache
+DIPS
+DIPS-wal
+GPUCache
+languagepacks.json
+Local Storage
+logs
+machineid
+Network Persistent State
+Preferences
+Service Worker
+Session Storage
+shared_proto_db
+Shared Dictionary
+SharedStorage
+SharedStorage-wal
+TransportSecurity
+Trust Tokens
+Trust Tokens-journal
+VideoDecodeStats
+WebStorage
+
+### User
 **/History
 **/globalStorage
 **/snippets
