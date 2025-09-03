@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "cmd+l l",
+    "command": "lazygit.openLazygit"
+  },
+  {
+    "key": "cmd+g g",
+    "command": "-lazygit.openLazygit"
+  }
+]
