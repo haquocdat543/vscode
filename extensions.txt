@@ -28,6 +28,7 @@ humao.rest-client
 inferrinizzard.prettier-sql-vscode
 marlon407.code-groovy
 mellowmarshmallow.groovy
+mikoz.black-py
 ms-azuretools.vscode-containers
 ms-azuretools.vscode-docker
 ms-kubernetes-tools.vscode-kubernetes-tools
