@@ -1,71 +1,67 @@
 {
-	"tabnine.experimentalAutoImports": true,
-	"docker.networks.sortBy": "Label",
-	"[typescriptreact]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
-	"dart.flutterSdkPath": "/Users/hadat/test/flutter/flutter",
-	"[javascript]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	},
-	"vs-kubernetes": {
-		"vscode-kubernetes.helm-path-mac": "/Users/hadat/.vs-kubernetes/tools/helm/darwin-arm64/helm",
-		"vscode-kubernetes.minikube-path-mac": "/Users/hadat/.vs-kubernetes/tools/minikube/darwin-arm64/minikube"
-	},
-	//   "git.allowForcePush": true,
-	"git.autofetch": true,
-	"[yaml]": {
-		"diffEditor.ignoreTrimWhitespace": false
-	},
-	"vim.neovimConfigPath": "~/.config/nvim/init.lua",
-	"vim.neovimPath": "/opt/homebrew/bin/nvim",
-	"vim.neovimUseConfigFile": true,
-	"editor.fontFamily": "Fira Code",
-	"editor.fontLigatures": true,
-	"makefile.configureOnOpen": true,
-	"docker.extension.enableComposeLanguageServer": false,
-	"containers.networks.sortBy": "Label",
-	"python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
-	"[python]": {
-		"diffEditor.ignoreTrimWhitespace": true,
-		"editor.defaultFormatter": "ms-python.python",
-		"editor.formatOnSave": true
-	},
-	"workbench.colorTheme": "Dracula Theme",
-	"editor.formatOnPaste": true,
-	"editor.formatOnSaveMode": "modificationsIfAvailable",
-	"editor.formatOnType": true,
-	"editor.formatOnSave": true,
-	"editor.defaultFormatter": "esbenp.prettier-vscode",
-	"[go]": {
-		"editor.defaultFormatter": "golang.go"
-	},
-	"rest-client.environmentVariables": {
-		"$shared": {}
-	},
-	"rest-client.defaultHeaders": {
-		"fontFamily": "Fira Code",
-		"User-Agent": "vscode-restclient"
-	},
-	"rest-client.fontFamily": "monospace",
-	"rest-client.fontWeight": "normal",
-	"rest-client.fontSize": 13,
-	"rest-client.excludeHostsForProxy": [],
-	"[java]": {
-		"editor.defaultFormatter": "Oracle.oracle-java"
-	},
-	"diffEditor.ignoreTrimWhitespace": true,
-	"editor.codeActionsOnSave": {},
-	"terminal.integrated.profiles.osx": {
-		"bash": {
-			"path": "bash",
-			"args": [
-				"-i",
-				"-c",
-				"source ~/.bashrc; exec bash -i"
-			],
-			"icon": "terminal-bash"
-		}
-	},
-	"terminal.integrated.defaultProfile.osx": "bash"
+  "tabnine.experimentalAutoImports": true,
+  "docker.networks.sortBy": "Label",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "dart.flutterSdkPath": "/Users/hadat/test/flutter/flutter",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vs-kubernetes": {
+    "vscode-kubernetes.helm-path-mac": "/Users/hadat/.vs-kubernetes/tools/helm/darwin-arm64/helm",
+    "vscode-kubernetes.minikube-path-mac": "/Users/hadat/.vs-kubernetes/tools/minikube/darwin-arm64/minikube"
+  },
+  //   "git.allowForcePush": true,
+  "git.autofetch": true,
+  "[yaml]": {
+    "diffEditor.ignoreTrimWhitespace": false
+  },
+  "vim.neovimConfigPath": "~/.config/nvim/init.lua",
+  "vim.neovimPath": "/opt/homebrew/bin/nvim",
+  "vim.neovimUseConfigFile": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "makefile.configureOnOpen": true,
+  "docker.extension.enableComposeLanguageServer": false,
+  "containers.networks.sortBy": "Label",
+  "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
+  "[python]": {
+    "diffEditor.ignoreTrimWhitespace": true,
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnSave": true
+  },
+  "workbench.colorTheme": "Dracula Theme",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "rest-client.environmentVariables": {
+    "$shared": {}
+  },
+  "rest-client.defaultHeaders": {
+    "fontFamily": "Fira Code",
+    "User-Agent": "vscode-restclient"
+  },
+  "rest-client.fontFamily": "monospace",
+  "rest-client.fontWeight": "normal",
+  "rest-client.fontSize": 13,
+  "rest-client.excludeHostsForProxy": [],
+  "[java]": {
+    "editor.defaultFormatter": "Oracle.oracle-java"
+  },
+  "diffEditor.ignoreTrimWhitespace": true,
+  "editor.codeActionsOnSave": {},
+  "terminal.integrated.profiles.osx": {
+    "bash": {
+      "path": "bash",
+      "args": ["-i", "-c", "source ~/.bashrc; exec bash -i"],
+      "icon": "terminal-bash"
+    }
+  },
+  "terminal.integrated.defaultProfile.osx": "bash"
 }
