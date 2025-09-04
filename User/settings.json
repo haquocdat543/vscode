@@ -55,5 +55,17 @@
 		"editor.defaultFormatter": "Oracle.oracle-java"
 	},
 	"diffEditor.ignoreTrimWhitespace": true,
-	"editor.codeActionsOnSave": {}
+	"editor.codeActionsOnSave": {},
+	"terminal.integrated.profiles.osx": {
+		"bash": {
+			"path": "bash",
+			"args": [
+				"-i",
+				"-c",
+				"source ~/.bashrc; exec bash -i"
+			],
+			"icon": "terminal-bash"
+		}
+	},
+	"terminal.integrated.defaultProfile.osx": "bash"
 }
