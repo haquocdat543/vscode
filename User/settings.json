@@ -31,7 +31,7 @@
     "editor.defaultFormatter": "ms-python.python",
     "editor.formatOnSave": true
   },
-  "workbench.colorTheme": "Dracula Theme",
+  "workbench.colorTheme": "Tokyo Night",
   "editor.formatOnPaste": true,
   "editor.formatOnSaveMode": "modificationsIfAvailable",
   "editor.formatOnType": true,
