@@ -28,7 +28,7 @@
   "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
   "[python]": {
     "diffEditor.ignoreTrimWhitespace": true,
-    "editor.defaultFormatter": "ms-python.python",
+    "editor.defaultFormatter": "mikoz.black-py",
     "editor.formatOnSave": true
   },
   "workbench.colorTheme": "Tokyo Night",
