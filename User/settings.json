@@ -63,5 +63,15 @@
       "icon": "terminal-bash"
     }
   },
-  "terminal.integrated.defaultProfile.osx": "bash"
+  "terminal.integrated.defaultProfile.osx": "bash",
+  "go.toolsManagement.autoUpdate": true,
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[cmake]": {
+    "editor.defaultFormatter": "KylinIdeTeam.cmake-intellisence"
+  },
+  "[makefile]": {
+    "editor.defaultFormatter": "eshojaei.mbake-makefile-formatter"
+  }
 }
